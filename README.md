@@ -1,14 +1,12 @@
-### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=amir-shiati&color=blue)
 
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im Amir 🔮.
+Hi, im Amir.
 
-@@advanced programming student.@@
 + living in Iran.
-- 23 years old
+- 23 years old.
 # Java, Android developer.
 ```
 
