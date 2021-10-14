@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=amir-shiati&color=blue)
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amir-shiati&show_icons=true"/>
 
 <!--
 **amir-shiati/amir-shiati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
