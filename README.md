@@ -1,6 +1,17 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=amir-shiati&color=blue)
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amir-shiati&show_icons=true"/>
+
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
+hi, im jd 🔮.
+
+@@advanced programming student.@@
++ living in tel aviv, israel.
+- 17 years old
+! program engineer, web developer and shitposter
+# 📖 reverse engineering, computer science
+```
 
 <!--
 **amir-shiati/amir-shiati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amir-shiati&show_icons=true"/>
 -->
