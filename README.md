@@ -3,10 +3,8 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hi, im Amir.
+Hi, I'm Amir.
 
-+ living in Iran.
-- 23 years old.
 # Java, Android developer.
 ```
 
