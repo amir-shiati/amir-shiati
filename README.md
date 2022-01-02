@@ -5,7 +5,7 @@
 ```diff
 Hi, I'm Amir.
 
-# Java, Android developer.
++ Java, Android developer.
 ```
 
 <!--
