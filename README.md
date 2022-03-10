@@ -1,12 +1,13 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=amir-shiati&color=blue" alt="visitor badge"/></p>
 
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
 ```diff
 Hi, I'm Amir.
 
 + Java, Android developer.
 ```
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amir-shiati" alt="visitor badge"/></p>
 
 <!--
