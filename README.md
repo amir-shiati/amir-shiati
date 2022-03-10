@@ -1,6 +1,4 @@
-<p align="center">
-![](https://komarev.com/ghpvc/?username=amir-shiati&color=blue)
-</p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bamir-shiati%7D/count.svg" alt="visitor badge"/></p>
 
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
