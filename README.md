@@ -1,5 +1,5 @@
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bamir-shiati%7D/count.svg" alt="visitor badge"/></p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=amir-shiati&color=blue" alt="visitor badge"/></p>
+![](https://komarev.com/ghpvc/?username=amir-shiati&color=blue)
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
