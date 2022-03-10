@@ -5,8 +5,8 @@ Hi, I'm Amir.
 
 + Java, Android developer.
 ```
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amir-shiati" alt="visitor badge"/></p>
 
