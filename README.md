@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=amir-shiati&color=blue)
+<p align="center">![](https://komarev.com/ghpvc/?username=amir-shiati&color=blue)</p>
 
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
