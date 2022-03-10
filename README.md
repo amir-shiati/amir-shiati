@@ -10,6 +10,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amir-shiati" alt="visitor badge"/></p>
 
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+<a href="https://github.com/amir-shiati?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=amir-shiati&column=8&margin-w=15&margin-h=15" alt="amir-shiati"></a>
+
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 <!--
 **amir-shiati/amir-shiati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
