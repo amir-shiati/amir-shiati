@@ -8,9 +8,7 @@ Hi, I'm Amir.
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-
-
-<a href="https://github.com/amir-shiati?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=amir-shiati&row=1&margin-w=15&margin-h=15" alt="amir-shiati"></a>
+<p align="center"><a href="https://github.com/amir-shiati?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=amir-shiati&row=1&margin-w=15&margin-h=15" alt="amir-shiati"></a></p>
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
